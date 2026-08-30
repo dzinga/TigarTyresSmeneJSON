@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "lastUpdated": "2026-08-30T00:05:00Z",
   "shifts": {
     "pocetniDatumiPoSmeni": {
@@ -9,11 +9,7 @@
       "3": "2026-07-29"
     },
     "pauzePoSmeni": {
-      "0": [{
-          "od": "2026-08-10",
-          "do": "2026-08-20",
-          "tip": "pauziraj"
-        }],
+      "0": [],
       "1": [],
       "2": [],
       "3": []
