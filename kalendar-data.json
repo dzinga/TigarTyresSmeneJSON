@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "lastUpdated": "2026-08-30T00:00:00Z",
+  "shifts": {
+    "pocetniDatumiPoSmeni": {
+      "0": "2026-08-01",
+      "1": "2026-07-23",
+      "2": "2026-07-26",
+      "3": "2026-07-29"
+    },
+    "pauzePoSmeni": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": []
+    }
+  },
+  "notes": "Ažurirajte ovaj fajl kada se promene podaci o smenama. Povećajte version broj pri svakoj promeni."
+}
